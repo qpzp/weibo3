@@ -11359,5 +11359,6 @@ body {
 
 nav.navbar.navbar-expand-lg {
   margin-bottom: 20px;
+  border-top: 1px double #f00;
 }
 
