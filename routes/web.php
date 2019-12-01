@@ -6,4 +6,7 @@ Route::get('/help', 'StaticPagesController@help')->name('help');
 Route::get('/about', 'StaticPagesController@about')->name('about');
 
 //注册页面
-Route::get('signup','UsersController@create')->name('signup');
+Route::get('signup', 'UsersController@create')->name('signup');
+
+//用户注册资源路由
+Route::resource('users', 'UsersController');
