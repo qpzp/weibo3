@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7b7fc422-52fd-4966-a380-d551d782ed40" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/Http/Controllers/SessionsController.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Http/Controllers/SessionsController.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/sessions/create.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/sessions/create.blade.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -166,7 +168,7 @@
       <workItem from="1574865029556" duration="2812000" />
       <workItem from="1574938121797" duration="8202000" />
       <workItem from="1575201353338" duration="2898000" />
-      <workItem from="1575799888522" duration="1439000" />
+      <workItem from="1575799888522" duration="1681000" />
     </task>
     <servers />
   </component>
@@ -185,5 +187,11 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="544" height="446" key="SwitcherDM" timestamp="1575804935967">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="544" height="446" key="SwitcherDM/0.0.1366.728@0.0.1366.728" timestamp="1575804935967" />
   </component>
 </project>
